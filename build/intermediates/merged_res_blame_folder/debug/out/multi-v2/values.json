@@ -1,0 +1,96 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Armando\\AndroidStudioProjects\\Signos\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Armando\\AndroidStudioProjects\\Signos\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "271,329",
+                        "endColumns": "57,55",
+                        "endOffsets": "324,380"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Armando\\AndroidStudioProjects\\Signos\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "127,173,220",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "168,215,266"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Armando\\AndroidStudioProjects\\Signos\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "376"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "541",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "855"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Armando\\AndroidStudioProjects\\Signos\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,1,4,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "101,17,140,62",
+                        "endColumns": "37,43,38,37",
+                        "endOffsets": "134,56,174,95"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "385,422,466,504",
+                        "endColumns": "36,43,37,36",
+                        "endOffsets": "417,461,499,536"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Armando\\AndroidStudioProjects\\Signos\\app\\src\\main\\res\\values\\bools.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,93",
+                        "endColumns": "34,36",
+                        "endOffsets": "87,125"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,90",
+                        "endColumns": "34,36",
+                        "endOffsets": "85,122"
+                    }
+                }
+            ]
+        }
+    ]
+}
